@@ -3276,7 +3276,7 @@
     <us-gaap:OtherAssetsNoncurrent contextRef="c-7" decimals="-6" id="f-57" unitRef="usd">14874000000</us-gaap:OtherAssetsNoncurrent>
     <us-gaap:OtherAssetsNoncurrent contextRef="c-8" decimals="-6" id="f-58" unitRef="usd">12950000000</us-gaap:OtherAssetsNoncurrent>
     <us-gaap:Assets contextRef="c-7" decimals="-6" id="f-59" unitRef="usd">450256000000</us-gaap:Assets>
-    <us-gaap:Assets contextRef="c-8" decimals="-6" id="f-60" unitRef="usd">475374000000</us-gaap:Assets>
+    <us-gaap:Assets contextRef="c-8" decimals="-6" id="f-60" unitRef="usd">275374000000</us-gaap:Assets>
     <us-gaap:AccountsPayableCurrent contextRef="c-7" decimals="-6" id="f-61" unitRef="usd">7987000000</us-gaap:AccountsPayableCurrent>
     <us-gaap:AccountsPayableCurrent contextRef="c-8" decimals="-6" id="f-62" unitRef="usd">8497000000</us-gaap:AccountsPayableCurrent>
     <us-gaap:EmployeeRelatedLiabilitiesCurrent contextRef="c-7" decimals="-6" id="f-63" unitRef="usd">15069000000</us-gaap:EmployeeRelatedLiabilitiesCurrent>
